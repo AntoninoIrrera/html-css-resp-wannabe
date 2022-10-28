@@ -135,7 +135,7 @@ img {
  
 
     .container{
-        width: 85%;
+        width: 100%;
     }
 
 
@@ -167,5 +167,17 @@ img {
      .why-us .col-right {
          width: 100%;
      }
+    
+ }
+
+
+ @media all and (min-width:769px) and (max-width:1160px) {
+
+
+    .container{
+        width: 100%;
+    }
+      
+    
     
  }
